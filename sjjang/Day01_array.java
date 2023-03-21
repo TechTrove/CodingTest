@@ -1,3 +1,4 @@
+package sjjang;
 import java.util.Arrays;
 
 class Solution {
